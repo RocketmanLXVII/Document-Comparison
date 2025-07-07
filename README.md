@@ -1,4 +1,7 @@
 # 🚀 Document-Comparison
+![GitHub Created At](https://img.shields.io/github/created-at/RocketmanLXVII/Document-Comparison)
+![GitHub contributors](https://img.shields.io/github/contributors/RocketmanLXVII/Document-Comparison)
+![GitHub License](https://img.shields.io/github/license/RocketmanLXVII/Document-Comparison)
 
 A **universal, local, and secure** open-source tool that **compares any two documents** using a local LLM (e.g., Mistral or Llama3 via Ollama).
 
